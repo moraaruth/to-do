@@ -1,0 +1,68 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+body {
+    margin-top: 5%;
+    text-align: center;
+    padding: 10;
+    background-color: aquamarine;
+}
+#new-task-form {
+    margin-top: 10px;
+    border-radius: 50%;
+    font-size: 18px;
+    margin-bottom: 20px;
+    
+
+}
+#new-task-input {
+    padding: 5px;
+    border-radius: 10%;
+    list-style: none;
+}
+
+#new-task-submit {
+    padding: 7px;
+    color: whitesmoke;
+    background-color: black;
+    border-radius: 30%;
+
+}
+.task-list {
+    margin-top: 15px;
+}
+#tasks {
+    margin-left: 39%;
+    float: left;
+}
+.content {
+    margin: 5px;
+    float: left;
+    
+}
+
+.actions {
+    float: right;
+}
+
+.text {
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.edit {
+    padding: 5px;
+    border-radius: 30%;
+    color: whitesmoke;
+    background-color: black;
+}
+
+.delete {
+    padding: 5px;
+    border-radius: 30%;
+    color: whitesmoke;
+    background-color: black;
+
+}
